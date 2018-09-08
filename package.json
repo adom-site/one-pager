@@ -1,0 +1,24 @@
+{
+  "name": "one-pager",
+  "version": "1.0.0",
+  "description": "one pager adom site\u001b[D\u001b[D\u001b[D\u001b[Dstatic site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adom-site/one-pager.git"
+  },
+  "keywords": [
+    "steem",
+    "adom",
+    "blog"
+  ],
+  "author": "dzivenu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adom-site/one-pager/issues"
+  },
+  "homepage": "https://github.com/adom-site/one-pager#readme"
+}
